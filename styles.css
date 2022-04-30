@@ -1,0 +1,95 @@
+* {
+  /*   outline: dashed 2px blue; */
+    clear: both;
+  }
+  
+  body{
+  /*   background-color: #b5a0ca;
+    color: whitesmoke; */
+    background-image: linear-gradient(90deg, #c5cac5, rgb(128,228,144));
+    font-family: "Arial", Times, serif;
+  }
+  header{}
+  
+  h1 {
+    color: #14db14;
+    text-align: center;
+    font-size: 55px;
+  }
+  nav {
+  /*   height: 500px; */
+    background-color: pink;
+  }
+  
+  nav ul {
+    background-color: rgb(18,100,200, .50);
+    list-style: none;
+    font-size: 33px;
+  }
+  
+  nav li {
+    display: inline-block;
+    border-left: 5px solid rgb(253, 148, 28);
+  }
+  
+  
+  nav li:last-of-type {
+    border-right: 5px solid rgb(253,148,28);
+  }
+  
+  
+  
+  nav a {
+    color: violet;
+    text-decoration: none;
+    padding: 30px;
+    display: block;
+  }
+  
+  
+  
+  .floatRightImages {
+    float: right;
+  }
+  
+  footer{
+    background-color: yellow;
+  }
+  ol {
+    height: 175px;
+    background-color: whitesmoke;
+    float: right;
+    margin-right: 100px;
+  }
+  
+  /* add a class style */
+  /* add an id style to page */
+  #container {
+    background-color: whitesmoke;
+  /*   min-height: 600px; */
+    width: 80%;
+    padding: 20px;
+    border-width: 10px;
+    border-style:inset;
+    border-color: #333;
+    margin: 20px auto;
+  }
+  
+  
+  
+  footer img {
+    
+    margin-left: 100px;
+  /*        t.   r.    b.   l */
+  /*   margin: 50px 10px 400px 100px; */
+    
+  }
+  
+  
+  
+  
+  
+  
+  
+  
+  
